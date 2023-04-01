@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Game Con</title>
-    <link>https://laxdog.github.io/</link>
-    <description>Recent content on Game Con</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://laxdog.github.io/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Game Con</title>
+        <link>http://gameconbelfast.co.uk/</link>
+        <description>Game Con Belfast</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>laxdog@gmail.com (Michael Robinson)</managingEditor>
+            <webMaster>laxdog@gmail.com (Michael Robinson)</webMaster>
+            <atom:link href="http://gameconbelfast.co.uk/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
 </rss>
